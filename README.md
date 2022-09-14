@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ### 4. Test run the development
 > hypercorn main:app --reload
 
-### Open in your favorite browser 
+### 5. Open in your favorite browser 
 1. http://127.0.0.1:8000/
 2. Swagger documentation http://127.0.0.1:8000/docs
 
